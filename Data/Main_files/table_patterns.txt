@@ -1,0 +1,6 @@
+word1.docx_2021.12.04-00.09_(cod_1130);1068817703;Data/User_files/Patterns/1068817703_6267_word1.docx;False
+pattern1.docx_2021.12.06-18.23_(cod_4225);1068817703;Data/User_files/Patterns/1068817703_9921_pattern1.docx;True
+pattern2.docx_2021.12.06-18.53_(cod_4829);1068817703;Data/User_files/Patterns/1068817703_6912_pattern2.docx;True
+pattern3.docx_2021.12.06-21.13_(cod_8646);1068817703;Data/User_files/Patterns/1068817703_2740_pattern3.docx;False
+pattern3.docx_2021.12.06-21.20_(cod_1436);1068817703;Data/User_files/Patterns/1068817703_2543_pattern3.docx;False
+pattern4.docx_2021.12.07-01.13_(cod_8396);1068817703;Data/User_files/Patterns/1068817703_5827_pattern4.docx;True
